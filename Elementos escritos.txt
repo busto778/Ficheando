@@ -1,0 +1,7 @@
+(1) = la eficiencia
+
+(2) = Usabilidad
+
+(3) = Escabilidad
+
+(4) = La escaladidad
